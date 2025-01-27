@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VarshuOptimistic
-- 👀 I’m interested in Programming, especially Python.
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on beginner project to learn more.
+- 👀 I’m a flutter dev
+- 🌱 I’m currently working on Mobile apps
+- 💞️ I’m looking to collaborate on working with mobile apps 
 
 
 <!---
